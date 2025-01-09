@@ -16,21 +16,16 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 ## Overview
 
-### The challenge
-
-Users should be able to:
-
-- View the optimal layout for the site depending on their device's screen size
-
 ### Screenshot
-![mobile-view](https://github.com/user-attachments/assets/1a03ff5f-f376-4f55-8c8c-7f4b34deea23)
-![tablet-view](https://github.com/user-attachments/assets/06cdbf8a-bfcb-44fc-a8de-277daeca80fb)
-![desktop-view](https://github.com/user-attachments/assets/bfd4439d-c1fd-483c-b372-58ae4acc48dc)
+
+<img src="https://github.com/user-attachments/assets/098c7d0e-1ab7-42f3-a21a-fea5f5c7987bc" alt="Four Card Feature Screenshot 1" width="35%" height="20%"/>
+<img src="https://github.com/user-attachments/assets/186331c5-4778-4fdd-b9a1-cadb700d88b8" alt="Four Card Feature Screenshot 2" width="60%" height="30%"/>
+<img src="https://github.com/user-attachments/assets/e62cdb5c-b5eb-4f29-8822-40bff71ab561" alt="Four Card Feature Screenshot 3" />
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/Abhishek1334/Four-card-Feature-Design
+- Live Site URL: https://abhishek1334.github.io/Four-card-Feature-Design/
 
 ## My process
 
@@ -41,59 +36,20 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
+- CSS Positioning
+- CSS Transform
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+Working on this project taught me a great deal about responsive design and the importance of creating layouts that adapt seamlessly across different devices. By designing feature cards for mobile, tablet, and desktop views, I gained a deeper understanding of how media queries can be used to deliver an optimal user experience on varying screen sizes. It was fascinating to see how CSS Flexbox and CSS Grid could complement each other in achieving both structured and fluid layouts. Flexbox proved invaluable for aligning elements precisely, while Grid provided the perfect framework for organizing the feature cards into a clean, cohesive structure.
 
-To see how you can add code snippets, see below:
+I also delved into CSS positioning, experimenting with properties like relative and absolute to fine-tune the placement of elements. This helped me appreciate the role of positioning in creating dynamic layouts, especially when combined with z-index for layering. Using CSS transformations, I brought subtle yet impactful movements to the cards, adding a layer of interactivity and polish to the design. Additionally, I implemented CSS variables to streamline the styling process. By centralizing frequently used values such as colors and spacing, I ensured consistency across the project while making future adjustments more manageable.
 
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
+This project reinforced the importance of designing for usability and accessibility. I paid close attention to spacing, font sizes, and alignment to ensure that the content remained clear and readable on all devices. I also encountered challenges like managing overflow and preventing unwanted scrollbars, which helped me develop better debugging and problem-solving skills.
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+Looking ahead, I am eager to build on this foundation by exploring more advanced CSS techniques. For example, I plan to incorporate animations and transitions to create richer, more engaging user interactions. I’m also interested in building scalable design systems by refining how I structure reusable components and modular CSS. Additionally, accessibility is an area I want to improve further, ensuring my designs are inclusive and user-friendly for everyone. Finally, I aim to optimize performance by minimizing CSS overhead and exploring frameworks like Tailwind CSS for greater efficiency.
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
-
-### Useful resources
-
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
-
-## Author
-
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
-
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+This project not only strengthened my CSS skills but also gave me the confidence to approach more complex UI challenges. I look forward to integrating JavaScript into future projects to add dynamic functionality and bring my designs to life.
